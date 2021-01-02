@@ -1867,11 +1867,11 @@ padding: 0 !important;
 }
 
 .scrollableContainer-38zsVD {
-    background-color: var(--scrollable-container-color);
+    background-color: rgba(0,0,0,0.6);
 }
 
 .scrollableContainer-2NUZem {
-    background-color: rgba(0,0,0,0.6);
+    background-color: var(--scrollable-container-color);
 }
 
 .container-3Mxszk {
