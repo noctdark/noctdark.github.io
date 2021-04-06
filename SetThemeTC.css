@@ -1,4 +1,5 @@
-/* Don't touch this */
+/* base on puckzxz Theme
+Don't touch this */
 
 html {
     font-size: var(--font-size) !important;
@@ -1868,7 +1869,7 @@ padding: 0 !important;
 }
 
 .scrollableContainer-2NUZem {
-    background-color: rgba(0,0,0,0.6);
+    background-color: var(--scrollable-container-color);
 }
 
 .container-3Mxszk {
