@@ -896,12 +896,14 @@ div.unread-mentions-indicator-bottom {
 }
 
 .channel-2QD9_O.selected-1HYmZZ a, .channel-2QD9_O:hover a {
-    background-color: rgba(79,84,92,.6);
+    /*background-color: rgba(79,84,92,.6);*/
+    background-color: var(--hover-channel-bg-color);
     color: #fff;
 }
 
 .search-bar {
-    background-color: rgba(79,84,92,.5);
+    background-color: var(--hover-channel-bg-color);
+    /*background-color: rgba(79,84,92,.5);*/
 }
 
 .uploadModal-2ifh8j .footer-3mqk7D .button-primary {
@@ -1867,7 +1869,8 @@ padding: 0 !important;
 }
 
 .scrollableContainer-2NUZem {
-    background-color: rgba(0,0,0,0.6);
+    /*background-color: rgba(0,0,0,0.6);*/
+    background-color: var(--scrollable-container-color);
 }
 
 .container-3Mxszk {
