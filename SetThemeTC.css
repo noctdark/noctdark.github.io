@@ -1,5 +1,4 @@
-/* base on puckzxz Theme
-Don't touch this */
+/* Don't touch this */
 
 html {
     font-size: var(--font-size) !important;
@@ -1722,6 +1721,7 @@ padding: 0 !important;
     color: #fff;
 }
 
+
 .app-2rEoOp {
     background-color: var(--background-image);
 }
@@ -1868,7 +1868,7 @@ padding: 0 !important;
 }
 
 .scrollableContainer-2NUZem {
-    background-color: var(--scrollable-container-color);
+    background-color: rgba(0,0,0,0.6);
 }
 
 .container-3Mxszk {
